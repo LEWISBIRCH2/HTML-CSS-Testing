@@ -1,0 +1,23 @@
+*{background-color: aquamarine;}
+*{margin:auto;
+width: 70%;
+padding-top: 10px;
+text-align: center;}
+
+
+
+
+
+img{width: 700px;
+height: 700px;
+border-radius: 50%;
+border: 10px solid salmon;
+margin-bottom: 20%;
+margin-left: 20%;}
+
+h1 {font-family: monospace;}
+h2 {font-family: monospace}
+
+.fontSize{font-size: x-small}
+.colour{color: brown;}
+
